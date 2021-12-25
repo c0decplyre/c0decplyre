@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @c0decplyre
-- 👀 I’m interested in cooking, solving puzzles and programming
-- 🌱 I’m currently learning to be a WEB DEVELOPER
+- 👀 I’m interested in cooking, photography solving puzzles and programming
+- 🌱 I’m currently learning to be a Software Engineer
 - 📫 How to reach me culturarickyadriell@gmail.com
